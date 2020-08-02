@@ -1,0 +1,2 @@
+CREATE USER ficon WITH PASSWORD 'ficon4you';
+CREATE DATABASE ficon OWNER ficon;
